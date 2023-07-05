@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lin Wang"
-title_separator          : "Ph.D. Student"
-name                     : &name "Lin Wang"
-description              : &description "A fishermen wandering in the beach of medicinal chemistry."
-url                      : https://wang-lin-boop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title                    : "Shihang Wang"
+title_separator          : "Master Student"
+name                     : &name "Shihang Wang"
+description              : &description "There is more to life than research."
+url                      : https://shihang-wang-58.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Wang-Lin-boop/wang-lin-boop.github.io"
+repository               : "Shihang-Wang-58/Shihang-Wang"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lin Wang (王林)"
+  name             : "Shihang Wang (王世航)"
   avatar           : "profile.png"
   bio              : "A fishermen wandering in the beach of medicinal chemistry."
   location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Lin+Wang+ShanghaiTech"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=lFYS_EQAAAAJ&hl=zh-CN"
-  email            : "Wanglin1102@outlook.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Shihang+Wang+ShanghaiTech*+OR+Shihang+Wang+Shanghai+Ocean*"
+  googlescholar    : "https://scholar.google.com/citations?user=LAhfJTEAAAAJ&hl=zh-CN"
+  email            : "wshshou@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Shihang-Wang-7"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Wang-Lin-boop"
+  github           : "Shihang-Wang-58"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-2482-7638"
+  orcid            : "https://orcid.org/0000-0002-4714-6504"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
