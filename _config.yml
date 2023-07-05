@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shihang Wang (王世航)"
+  name             : "Shihang Wang"
   avatar           : "profile.png"
-  bio              : "A fishermen wandering in the beach of medicinal chemistry."
+  bio              : "There is more to life than research."
   location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Shihang+Wang+ShanghaiTech*+OR+Shihang+Wang+Shanghai+Ocean*"
