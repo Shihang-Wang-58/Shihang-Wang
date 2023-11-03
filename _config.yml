@@ -11,7 +11,7 @@ title                    : "Shihang Wang"
 title_separator          : "Master Student"
 name                     : &name "Shihang Wang"
 description              : &description "There is more to life than research."
-url                      : https://shihang-wang-58.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shihang-wang-58.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shihang-Wang-58/Shihang-Wang"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -73,16 +73,16 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Shihang Wang (王世航)"
+  name             : "Shihang Wang"
   avatar           : "profile.png"
-  bio              : "A fishermen wandering in the beach of medicinal chemistry."
+  bio              : "There is more to life than research."
   location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Shihang+Wang+ShanghaiTech*+OR+Shihang+Wang+Shanghai+Ocean*"
