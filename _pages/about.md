@@ -23,7 +23,7 @@ Representative Works
 
 News
 =====
-1. 01/2023, we proposed a deep learning based computational model called **DeepSA**, witch could predict the synthesis accessibility of compounds. DeepSA has a high early enrichment rate for difficult to synthesize compounds and is significantly outperforming other existing methods. DeepSA is currently available online through the [*Bailab website*](https://bailab.siais.shanghaitech.edu.cn/deepsa).
+1. 11/2023, we proposed a deep learning based computational model called **DeepSA**, witch could predict the synthesis accessibility of compounds. DeepSA has a high early enrichment rate for difficult to synthesize compounds and is significantly outperforming other existing methods. DeepSA is currently available online through the [*Bailab website*](https://bailab.siais.shanghaitech.edu.cn/deepsa).
 2. 03/2023, we proposed **DeepmRNALoc**, a deep learning-based prediction model, and compared it to other existing models, demonstrating significant improvements in predicting eukaryotic mRNA subcellular localization. 
 3. 09/2022, Shihang Wang joined the [Bailab](https://bailab.siais.shanghaitech.edu.cn/) of ShanghaiTech University.
 4. 09/2021, we preliminarily clarified the evolutionary characteristics of SARS-CoV-2 in the United States, providing a scientific basis for future surveillance and prevention of virus variants. This work was published on [Journal of Medical Virology](https://onlinelibrary.wiley.com/doi/10.1002/jmv.27331).

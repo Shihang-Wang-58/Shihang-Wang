@@ -11,7 +11,7 @@ redirect_from:
 
 Representative Work
 =====
-* **DeepSA**: a deep-learning driven predictor of compound synthesis accessibility. \[*under review*\]
+* **DeepSA**: a deep-learning driven predictor of compound synthesis accessibility. \[[**J Cheminform**](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00771-3)\]
 * **DeepmRNALoc**: the state-of-the-art mRNA subcellular localization prediction method. \[[**Molecules**](https://www.mdpi.com/1420-3049/28/5/2284)\]
 * Molecular evolutionary characteristics of **SARS-CoV-2** emerging in the United States. \[[**JMV**](https://onlinelibrary.wiley.com/doi/10.1002/jmv.27331)\]
 
