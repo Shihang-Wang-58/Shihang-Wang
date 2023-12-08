@@ -15,7 +15,7 @@ I'm [**Shihang Wang** \(王世航\)](https://scholar.google.com/citations?user=L
     
 My research interests center around the **application of artificial intelligence algorithms in drug design**, with a particular focus on compound ADMET properties prediction and molecular generation. Additionally, I am dedicated to advancing computational methods for molecular design in order to find new avenues for breakthroughs in drug development. 
 
-**I'm expected to graduate in the summer of 2025 and I'm currently actively seeking a suitable PhD supervisor."** If any prospective supervisors find my profile suitable and are interested, I warmly welcome them to contact me.
+**"I'm expected to graduate in the summer of 2025 and I'm currently actively seeking a suitable PhD supervisor."** If any prospective supervisors find my profile suitable and are interested, please give me a valuable opportunity to join the team.
 
 Representative Works
 =====
