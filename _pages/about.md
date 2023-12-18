@@ -25,8 +25,9 @@ Representative Works
 
 News
 =====
-1. 11/2023, we proposed a deep learning based computational model called **DeepSA**, witch could predict the synthesis accessibility of compounds. DeepSA has a high early enrichment rate for difficult to synthesize compounds and is significantly outperforming other existing methods. DeepSA is currently available online through the [*Bailab website*](https://bailab.siais.shanghaitech.edu.cn/deepsa).
-2. 03/2023, we proposed **DeepmRNALoc**, a deep learning-based prediction model, and compared it to other existing models, demonstrating significant improvements in predicting eukaryotic mRNA subcellular localization. 
-3. 09/2022, Shihang Wang joined the [Bailab](https://bailab.siais.shanghaitech.edu.cn/) of ShanghaiTech University.
-4. 09/2021, we preliminarily clarified the evolutionary characteristics of SARS-CoV-2 in the United States, providing a scientific basis for future surveillance and prevention of virus variants. This work was published on [Journal of Medical Virology](https://onlinelibrary.wiley.com/doi/10.1002/jmv.27331).
+1. 12/2023, we have introduced the **GeminiMol** , which incorporates conformational space information into molecular representation learning, refer to [GitHub](https://github.com/Wang-Lin-boop/GeminiMol)and [BioRxiv](https://doi.org/10.1101/2023.12.14.571629). I am the co-author of this work.
+2. 11/2023, we proposed a deep learning based computational model called **DeepSA**, witch could predict the synthesis accessibility of compounds. DeepSA has a high early enrichment rate for difficult to synthesize compounds and is significantly outperforming other existing methods. DeepSA is currently available online through the [*Bailab website*](https://bailab.siais.shanghaitech.edu.cn/deepsa). This work was done jointly by Lin Wang and me.
+3. 03/2023, we proposed **DeepmRNALoc**, a deep learning-based prediction model, and compared it to other existing models, demonstrating significant improvements in predicting eukaryotic mRNA subcellular localization. 
+4. 09/2022, Shihang Wang joined the [Bailab](https://bailab.siais.shanghaitech.edu.cn/) of ShanghaiTech University.
+5. 09/2021, we preliminarily clarified the evolutionary characteristics of SARS-CoV-2 in the United States, providing a scientific basis for future surveillance and prevention of virus variants. This work was published on [Journal of Medical Virology](https://onlinelibrary.wiley.com/doi/10.1002/jmv.27331).
 
