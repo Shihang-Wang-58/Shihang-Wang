@@ -2,7 +2,7 @@
 title: "Computer-Aided Prediction of the Interactions of Viral Proteases with Antiviral Drugs: Antiviral Potential of Broad-Spectrum Drugs"
 collection: publications
 permalink: /publication/2023-12-31-Computer-Aided Prediction of the Interactions of Viral Proteases with Antiviral Drugs Antiviral Potential of Broad-Spectrum Drugs
-date: 2023-01-01
+date: 2023-12-31
 venue: 'Molecules'
 citation: ' Pengxuan Ren,  Shiwei Li,  Shihang Wang,  Xianglei Zhang,  Fang Bai, &quot;Computer-Aided Prediction of the Interactions of Viral Proteases with Antiviral Drugs: Antiviral Potential of Broad-Spectrum Drugs.&quot; Molecules, 2023.'
 ---

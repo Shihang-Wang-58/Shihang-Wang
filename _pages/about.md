@@ -25,7 +25,7 @@ Representative Works
 
 News
 =====
-1. 12/2023, congratulations to Pengxuan Ren for successfully publishing his research paper on the last day of 2023, and it was an honor to be a part of this research!
+1. 12/2023, congratulations to Pengxuan Ren for successfully publishing his research [paper](https://www.mdpi.com/1420-3049/29/1/225) on the last day of 2023, and it was an honor to be a part of this research!
 2. 12/2023, we have introduced the **GeminiMol**, which incorporates conformational space information into molecular representation learning, refer to [GitHub](https://github.com/Wang-Lin-boop/GeminiMol) and [BioRxiv](https://doi.org/10.1101/2023.12.14.571629).
 3. 11/2023, we proposed a deep learning based computational model called **DeepSA**, witch could predict the synthesis accessibility of compounds. DeepSA has a high early enrichment rate for difficult to synthesize compounds and is significantly outperforming other existing methods. DeepSA is currently available online through the [*Bailab website*](https://bailab.siais.shanghaitech.edu.cn/deepsa). This work was done jointly by Lin Wang and me.
 4. 03/2023, we proposed **DeepmRNALoc**, a deep learning-based prediction model, and compared it to other existing models, demonstrating significant improvements in predicting eukaryotic mRNA subcellular localization. 
