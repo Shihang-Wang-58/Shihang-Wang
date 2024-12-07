@@ -14,4 +14,4 @@ _From both theoretical and practical perspectives, this article delves into the 
 
 ![640](https://github.com/user-attachments/assets/37bd0e06-1e40-4c41-bc2a-dc7cac8e9e35)
 
-![Uploading 7979f1f8-dc13-4791-bf57-7cb04a476806.jpg…]()
+![7979f1f8-dc13-4791-bf57-7cb04a476806](https://github.com/user-attachments/assets/cef4972b-4159-4312-adac-63f1167ae3d3)
