@@ -2,7 +2,7 @@
 title: "Interdisciplinary learning"
 collection: talks
 type: "Talk"
-permalink: /talks/Interdisciplinary learning
+permalink: /talks/Interdisciplinary_learning
 venue: "Da Dao College"
 date: 2024-11-22
 location: "Lecture Hall 302, ShanghaiTech University Library, Shanghai, China"
