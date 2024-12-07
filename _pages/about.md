@@ -27,7 +27,7 @@ Representative Works
 News
 =====
 *  10/2024, we have proposed the **PhenoScreen**, a dual-space contrastive learning framework-based phenotypic screening method by linking chemical perturbations to cellular morphology, refer to [GitHub](https://github.com/Shihang-Wang-58/PhenoScreen) and [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.23.619752v1).
-*  09/2024, congratulations to our two groups for winning the [first](https://competition.huaweicloud.com/information/1000042002/html13) and second prizes in the Shanghai International Computational Biology Challenge! GeminiMol is all you need!
+*  09/2024, congratulations to our two groups for rewarding the [first](https://competition.huaweicloud.com/information/1000042002/html13) and second prizes in the 2023 Shanghai International Computational Biology Innovation Competition! Utilizing GeminiMol, we identified a new inhibitor targeting GluN1/GluN3A (IC50 = 0.98 μM), GeminiMol is all you need!
 *  08/2024, **GeminiMol** was published in [*Advanced Science*](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403998), congratulations to [Lin Wang](https://wang-lin-boop.github.io/WangLin/)!
 *  12/2023, congratulations to Pengxuan Ren for successfully publishing his research [paper](https://www.mdpi.com/1420-3049/29/1/225) on the last day of 2023, and it was an honor to be a part of this research!
 *  12/2023, we have introduced the **GeminiMol**, which incorporates conformational space information into molecular representation learning, refer to [GitHub](https://github.com/Wang-Lin-boop/GeminiMol) and [BioRxiv](https://doi.org/10.1101/2023.12.14.571629).
